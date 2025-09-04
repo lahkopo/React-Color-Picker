@@ -39,7 +39,7 @@ Make sure you have Node.js and npm (or yarn) installed on your system.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/react-color-picker.git](https://github.com/your-username/react-color-picker.git)
+    git clone https://github.com/lahkopo/React-Color-Picker
     ```
 2.  **Navigate to the project directory:**
     ```sh
